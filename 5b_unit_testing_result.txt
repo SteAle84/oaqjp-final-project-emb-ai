@@ -1,0 +1,11 @@
+theia@theiadocker-stepanoffa:/home/project/final_project$ python3 test_emotion_detection.py -v
+test_anger (__main__.TestEmotionDetector) ... ok
+test_disgust (__main__.TestEmotionDetector) ... ok
+test_fear (__main__.TestEmotionDetector) ... ok
+test_joy (__main__.TestEmotionDetector) ... ok
+test_sadness (__main__.TestEmotionDetector) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.556s
+
+OK
